@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<body>
+<!––
+Here is the example for using a Custom Input Activity.
+A webpage needs to be created in order to use the activities.
+
+
+In this case we have a really simple HTML form 
+The page has no limitations in terms of the libraries you can use for the HTML 
+-->
+<h2>Simple Form</h2>
+
+<form action="/action_page.php">
+  First name:<br>
+  <input type="text" name="firstname" id="FirstName">
+  <br>
+  Last name:<br>
+  <input type="text" name="lastname" id="LastName">
+  <br>
+  Age:<br>
+  <input type="text" name="age" id="Age">
+  <br><br>
+  <input type="submit" value="Submit" id="SubmitButton">
+</form> 
+
+
+
+<script>
+   document.getElementById("SubmitButton").onclick = function() {
+
+		// After the values have been submited we gather all the relevant data
+   		var FirstName = document.getElementById("FirstName").value;
+   		var LastName = document.getElementById("LastName").value;
+   		var Age = document.getElementById("Age").value;
+
+   		// Contrusct a json string shich contain the values
+   		var OutputString = "{\"First_Name\":\"" + FirstName + "\","  +  "\"Last_Name\":\"" + LastName + "\"," + "\"Age\":\"" + Age + "\"}";
+
+   		// Here is the important bit. For a to be valid in terms of the activity the following line needs to be included and called at some point in the execution of the form.
+   		//Once the command has been called a string can be passed back to UiPath and the form will close
+   		window.external.setResult(OutputString);
+   		};
+</script>
+
+</body>
+</html>

@@ -1,0 +1,34 @@
+{
+  "name": "XMLPersing",
+  "description": "Blank Process",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.Excel.Activities": "[2.5.1]",
+    "UiPath.Mail.Activities": "[1.3.0]",
+    "UiPath.System.Activities": "[18.4.2]",
+    "UiPath.UIAutomation.Activities": "[19.1.0]",
+    "UiPath.WebAPI.Activities": "[1.4.0]",
+    "UiPathTeam.JSONUtilities.Activities": "0.4.7"
+  },
+  "schemaVersion": "3.2",
+  "studioVersion": "18.4.3.0",
+  "projectVersion": "1.0.7016.34106",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ]
+  },
+  "projectType": "Workflow",
+  "libraryOptions": {
+    "includeOriginalXaml": false,
+    "privateWorkflows": []
+  },
+  "arguments": {
+    "input": [],
+    "output": []
+  },
+  "webServices": []
+}

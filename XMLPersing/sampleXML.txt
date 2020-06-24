@@ -1,0 +1,256 @@
+<API version="1.0">
+  <response>
+    <operation name="GET_REQUEST">
+      <result>
+        <statuscode>200</statuscode>
+        <status>Success</status>
+        <message>Request details fetched successfully.</message>
+      </result>
+      <Details>
+        <parameter>
+          <name>workorderid</name>
+          <value>55</value>
+        </parameter>
+        <parameter>
+          <name>requester</name>
+          <value>administrator</value>
+        </parameter>
+        <parameter>
+          <name>createdby</name>
+          <value>Piechoczek, Jan</value>
+        </parameter>
+        <parameter>
+          <name>createdtime</name>
+          <value>1502201645496</value>
+        </parameter>
+        <parameter>
+          <name>duebytime</name>
+          <value>1502985600000</value>
+        </parameter>
+        <parameter>
+          <name>responseduebytime</name>
+          <value>-1</value>
+        </parameter>
+        <parameter>
+          <name>fr_duetime</name>
+          <value>-1</value>
+        </parameter>
+        <parameter>
+          <name>respondedtime</name>
+          <value>0</value>
+        </parameter>
+        <parameter>
+          <name>resolvedtime</name>
+          <value>0</value>
+        </parameter>
+        <parameter>
+          <name>completedtime</name>
+          <value>0</value>
+        </parameter>
+        <parameter>
+          <name>shortdescription</name>
+          <value>Specific description</value>
+        </parameter>
+        <parameter>
+          <name>timespentonreq</name>
+          <value>0hrs 0min</value>
+        </parameter>
+        <parameter>
+          <name>subject</name>
+          <value>test</value>
+        </parameter>
+        <parameter>
+          <name>requesttemplate</name>
+          <value>3.01 Procedura Glówna</value>
+        </parameter>
+        <parameter>
+          <name>sla</name>
+          <value>4 dni odr</value>
+        </parameter>
+        <parameter>
+          <name>DEPARTMENT</name>
+          <value />
+        </parameter>
+        <parameter>
+          <name>editorid</name>
+          <value>null</value>
+        </parameter>
+        <parameter>
+          <name>editing_status</name>
+          <value>0</value>
+        </parameter>
+        <parameter>
+          <name>is_catalog_template</name>
+          <value>true</value>
+        </parameter>
+        <parameter>
+          <name>site</name>
+          <value>Katowice</value>
+        </parameter>
+        <parameter>
+          <name>isvipuser</name>
+          <value>No</value>
+        </parameter>
+        <parameter>
+          <name>category</name>
+          <value>eAudit</value>
+        </parameter>
+        <parameter>
+          <name>SUBCATEGORY</name>
+          <value />
+        </parameter>
+        <parameter>
+          <name>TECHNICIAN</name>
+          <value />
+        </parameter>
+        <parameter>
+          <name>technician_loginname</name>
+          <value>-</value>
+        </parameter>
+        <parameter>
+          <name>status</name>
+          <value>On hold</value>
+        </parameter>
+        <parameter>
+          <name>APPROVAL_STATUS</name>
+          <value />
+        </parameter>
+        <parameter>
+          <name>CLOSURECODE</name>
+          <value />
+        </parameter>
+        <parameter>
+          <name>CLOSURECOMMENTS</name>
+          <value />
+        </parameter>
+        <parameter>
+          <name>fcr</name>
+          <value>false</value>
+        </parameter>
+        <parameter>
+          <name>YETTOREPLYCOUNT</name>
+          <value />
+        </parameter>
+        <parameter>
+          <name>GROUP</name>
+          <value />
+        </parameter>
+        <parameter>
+          <name>description</name>
+          <value>Specific description</value>
+        </parameter>
+        <parameter>
+          <name>rodzaj wysylanych potwierdzen</name>
+          <value>[]</value>
+        </parameter>
+        <parameter>
+          <name>email managera</name>
+          <value>@kpmg.pl</value>
+        </parameter>
+        <parameter>
+          <name>e-mail do osoby kontaktowej ze spólki</name>
+          <value>123</value>
+        </parameter>
+        <parameter>
+          <name>nr telefonu osoby kontaktowej ze spólki</name>
+          <value>+48123</value>
+        </parameter>
+        <parameter>
+          <name>kod projektu</name>
+          <value>123456</value>
+        </parameter>
+        <parameter>
+          <name>asc ma wylosowac próbke</name>
+          <value>Nie</value>
+        </parameter>
+        <parameter>
+          <name>email in-charge'a</name>
+          <value>123@kpmg.pl</value>
+        </parameter>
+        <parameter>
+          <name>nazwa projektu</name>
+          <value>asd</value>
+        </parameter>
+        <parameter>
+          <name>dane osoby kontaktowej ze spólki</name>
+          <value>123</value>
+        </parameter>
+        <parameter>
+          <name>asc ma przeprowadzic roll-forward</name>
+          <value>Nie</value>
+        </parameter>
+        <parameter>
+          <name>Ocena z feedbacku</name>
+          <value />
+        </parameter>
+        <parameter>
+          <name>rodzaj procedury</name>
+          <value>Administracja obiegiem dokumentów</value>
+        </parameter>
+        <parameter>
+          <name>wszystkie potwierdzenia na date bilansowa</name>
+          <value>Nie</value>
+        </parameter>
+        <parameter>
+          <name>asc ma przeprowadzic procedury alternatywne</name>
+          <value>Nie</value>
+        </parameter>
+        <parameter>
+          <name>template potwierdzenia naleznosci 3rd parties</name>
+          <value>Nie</value>
+        </parameter>
+        <parameter>
+          <name>oczekiwana data realizacji</name>
+          <value>17 Aug 2017, 18:00:00</value>
+        </parameter>
+        <parameter>
+          <name>Template listu prawniczego z oddzialami?</name>
+          <value />
+        </parameter>
+        <parameter>
+          <name>Data potwierdzen</name>
+          <value />
+        </parameter>
+        <parameter>
+          <name>data potwierdzenia - list bankowy</name>
+          <value>2017-09-30</value>
+        </parameter>
+        <parameter>
+          <name>Data potwierdzenia - List prawniczy</name>
+          <value />
+        </parameter>
+        <parameter>
+          <name>Data potwierdzenia - Naleznosci 3rd</name>
+          <value />
+        </parameter>
+        <parameter>
+          <name>Data potwierdzenia - Zobowiazania 3rd</name>
+          <value />
+        </parameter>
+        <parameter>
+          <name>Data potwierdzenia - IC</name>
+          <value />
+        </parameter>
+        <parameter>
+          <name>Data potwierdzenia - Pozyczka</name>
+          <value />
+        </parameter>
+        <parameter>
+          <name>Data potwierdzenia - Inne</name>
+          <value />
+        </parameter>
+        <parameter>
+          <name>Poziom istotnosci do wyjasniania róznic IC</name>
+          <value />
+        </parameter>
+        <parameter>
+          <name>Wielkosc kwoty w sporach prawnych w liscie do prawników</name>
+          <value />
+        </parameter>
+        <resources />
+        <Notes URI="http://plwawapp10/sdpapi/request/55/notes/" />
+        <Worklogs URI="http://plwawapp10/sdpapi/request/55/worklogs/" />
+      </Details>
+    </operation>
+  </response>
+</API>
