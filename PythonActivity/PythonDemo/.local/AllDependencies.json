@@ -1105,15 +1105,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tuhin.samanta\\.nuget\\packages\\": {}
+    "C:\\UiPathPkgSrc\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "PythonDemo",
       "projectName": "PythonDemo",
-      "projectPath": "C:\\Users\\tuhin.samanta\\Desktop\\UiPath Data\\Office POC\\Workflows\\00025595\\PythonDemo\\.local",
-      "packagesPath": "C:\\Users\\tuhin.samanta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tuhin.samanta\\Desktop\\UiPath Data\\Office POC\\Workflows\\00025595\\PythonDemo\\.local"
+      "projectPath": "C:\\Users\\tuhin.samanta\\Desktop\\UiPath Data\\Office POC\\Workflows\\PythonActivity\\PythonDemo\\.local",
+      "packagesPath": "C:\\UiPathPkgSrc\\",
+      "outputPath": "C:\\Users\\tuhin.samanta\\Desktop\\UiPath Data\\Office POC\\Workflows\\PythonActivity\\PythonDemo\\.local"
     },
     "frameworks": {
       "net461": {

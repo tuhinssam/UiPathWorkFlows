@@ -6,9 +6,9 @@
         "Version": "1.0.6863.32236"
       },
       "Assemblies": [
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.cryptography.activities/1.0.6863.32236\\lib/net452/UiPath.Cryptography.Activities.Design.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.cryptography.activities/1.0.6863.32236\\lib/net452/UiPath.Cryptography.Activities.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.cryptography.activities/1.0.6863.32236\\lib/net452/UiPath.Cryptography.dll"
+        "C:\\UiPathPkgSrc\\uipath.cryptography.activities/1.0.6863.32236\\lib/net452/UiPath.Cryptography.Activities.Design.dll",
+        "C:\\UiPathPkgSrc\\uipath.cryptography.activities/1.0.6863.32236\\lib/net452/UiPath.Cryptography.Activities.dll",
+        "C:\\UiPathPkgSrc\\uipath.cryptography.activities/1.0.6863.32236\\lib/net452/UiPath.Cryptography.dll"
       ]
     },
     {
@@ -17,18 +17,18 @@
         "Version": "2.4.6884.25683"
       },
       "Assemblies": [
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\closedxml/0.87.1\\lib/net40/ClosedXML.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\microsoft.visualstudio.ole.interop/7.10.6071\\lib/Microsoft.VisualStudio.OLE.Interop.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\npoi/2.2.1\\lib/net40/NPOI.OOXML.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\npoi/2.2.1\\lib/net40/NPOI.OpenXml4Net.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\npoi/2.2.1\\lib/net40/NPOI.OpenXmlFormats.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\npoi/2.2.1\\lib/net40/NPOI.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\sharpziplib/0.86.0\\lib/20/ICSharpCode.SharpZipLib.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.excel.activities/2.4.6884.25683\\lib/net452/UiPath.Excel.Activities.Design.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.excel.activities/2.4.6884.25683\\lib/net452/UiPath.Excel.Activities.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.excel.activities/2.4.6884.25683\\lib/net452/UiPath.Excel.dll"
+        "C:\\UiPathPkgSrc\\closedxml/0.87.1\\lib/net40/ClosedXML.dll",
+        "C:\\UiPathPkgSrc\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
+        "C:\\UiPathPkgSrc\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
+        "C:\\UiPathPkgSrc\\microsoft.visualstudio.ole.interop/7.10.6071\\lib/Microsoft.VisualStudio.OLE.Interop.dll",
+        "C:\\UiPathPkgSrc\\npoi/2.2.1\\lib/net40/NPOI.OOXML.dll",
+        "C:\\UiPathPkgSrc\\npoi/2.2.1\\lib/net40/NPOI.OpenXml4Net.dll",
+        "C:\\UiPathPkgSrc\\npoi/2.2.1\\lib/net40/NPOI.OpenXmlFormats.dll",
+        "C:\\UiPathPkgSrc\\npoi/2.2.1\\lib/net40/NPOI.dll",
+        "C:\\UiPathPkgSrc\\sharpziplib/0.86.0\\lib/20/ICSharpCode.SharpZipLib.dll",
+        "C:\\UiPathPkgSrc\\uipath.excel.activities/2.4.6884.25683\\lib/net452/UiPath.Excel.Activities.Design.dll",
+        "C:\\UiPathPkgSrc\\uipath.excel.activities/2.4.6884.25683\\lib/net452/UiPath.Excel.Activities.dll",
+        "C:\\UiPathPkgSrc\\uipath.excel.activities/2.4.6884.25683\\lib/net452/UiPath.Excel.dll"
       ]
     },
     {
@@ -37,14 +37,14 @@
         "Version": "1.2.6863.29868"
       },
       "Assemblies": [
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\bouncycastle/1.8.1\\lib/BouncyCastle.Crypto.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.Auth.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.mail.activities/1.2.6863.29868\\lib/net40/MailKit.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.mail.activities/1.2.6863.29868\\lib/net40/MimeKit.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.mail.activities/1.2.6863.29868\\lib/net40/UiPath.Mail.Activities.Design.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.mail.activities/1.2.6863.29868\\lib/net40/UiPath.Mail.Activities.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.mail.activities/1.2.6863.29868\\lib/net40/UiPath.Mail.dll"
+        "C:\\UiPathPkgSrc\\bouncycastle/1.8.1\\lib/BouncyCastle.Crypto.dll",
+        "C:\\UiPathPkgSrc\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.Auth.dll",
+        "C:\\UiPathPkgSrc\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.dll",
+        "C:\\UiPathPkgSrc\\uipath.mail.activities/1.2.6863.29868\\lib/net40/MailKit.dll",
+        "C:\\UiPathPkgSrc\\uipath.mail.activities/1.2.6863.29868\\lib/net40/MimeKit.dll",
+        "C:\\UiPathPkgSrc\\uipath.mail.activities/1.2.6863.29868\\lib/net40/UiPath.Mail.Activities.Design.dll",
+        "C:\\UiPathPkgSrc\\uipath.mail.activities/1.2.6863.29868\\lib/net40/UiPath.Mail.Activities.dll",
+        "C:\\UiPathPkgSrc\\uipath.mail.activities/1.2.6863.29868\\lib/net40/UiPath.Mail.dll"
       ]
     },
     {
@@ -53,16 +53,16 @@
         "Version": "1.1.6863.33404"
       },
       "Assemblies": [
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.python.activities/1.1.6863.33404\\lib/net452/UiPath.Python.Activities.Design.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.python.activities/1.1.6863.33404\\lib/net452/UiPath.Python.Activities.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.python.activities/1.1.6863.33404\\lib/net452/UiPath.Python.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.python.activities/1.1.6863.33404\\lib/net452/x64/Python.Runtime.35.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.python.activities/1.1.6863.33404\\lib/net452/x64/Python.Runtime.36.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.python.activities/1.1.6863.33404\\lib/net452/x86/Python.Runtime.27.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.python.activities/1.1.6863.33404\\lib/net452/x86/Python.Runtime.33.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.python.activities/1.1.6863.33404\\lib/net452/x86/Python.Runtime.34.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.python.activities/1.1.6863.33404\\lib/net452/x86/Python.Runtime.35.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.python.activities/1.1.6863.33404\\lib/net452/x86/Python.Runtime.36.dll"
+        "C:\\UiPathPkgSrc\\uipath.python.activities/1.1.6863.33404\\lib/net452/UiPath.Python.Activities.Design.dll",
+        "C:\\UiPathPkgSrc\\uipath.python.activities/1.1.6863.33404\\lib/net452/UiPath.Python.Activities.dll",
+        "C:\\UiPathPkgSrc\\uipath.python.activities/1.1.6863.33404\\lib/net452/UiPath.Python.dll",
+        "C:\\UiPathPkgSrc\\uipath.python.activities/1.1.6863.33404\\lib/net452/x64/Python.Runtime.35.dll",
+        "C:\\UiPathPkgSrc\\uipath.python.activities/1.1.6863.33404\\lib/net452/x64/Python.Runtime.36.dll",
+        "C:\\UiPathPkgSrc\\uipath.python.activities/1.1.6863.33404\\lib/net452/x86/Python.Runtime.27.dll",
+        "C:\\UiPathPkgSrc\\uipath.python.activities/1.1.6863.33404\\lib/net452/x86/Python.Runtime.33.dll",
+        "C:\\UiPathPkgSrc\\uipath.python.activities/1.1.6863.33404\\lib/net452/x86/Python.Runtime.34.dll",
+        "C:\\UiPathPkgSrc\\uipath.python.activities/1.1.6863.33404\\lib/net452/x86/Python.Runtime.35.dll",
+        "C:\\UiPathPkgSrc\\uipath.python.activities/1.1.6863.33404\\lib/net452/x86/Python.Runtime.36.dll"
       ]
     },
     {
@@ -71,21 +71,21 @@
         "Version": "18.3.6897.22524"
       },
       "Assemblies": [
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.10\\lib/net452/Microsoft.Rest.ClientRuntime.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\newtonsoft.json/10.0.3\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.system.activities/18.3.6897.22524\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.system.activities/18.3.6897.22524\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.system.activities/18.3.6897.22524\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.system.activities/18.3.6897.22524\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.system.activities/18.3.6897.22524\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.system.activities/18.3.6897.22524\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.system.activities/18.3.6897.22524\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.system.activities/18.3.6897.22524\\lib/net461/ActiproSoftware.Text.Wpf.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.system.activities/18.3.6897.22524\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.system.activities/18.3.6897.22524\\lib/net461/UiPath.OrchestratorClient.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.system.activities/18.3.6897.22524\\lib/net461/UiPath.System.Activities.Design.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.system.activities/18.3.6897.22524\\lib/net461/UiPath.System.Activities.dll"
+        "C:\\UiPathPkgSrc\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
+        "C:\\UiPathPkgSrc\\microsoft.rest.clientruntime/2.3.10\\lib/net452/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\UiPathPkgSrc\\newtonsoft.json/10.0.3\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\UiPathPkgSrc\\uipath.system.activities/18.3.6897.22524\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
+        "C:\\UiPathPkgSrc\\uipath.system.activities/18.3.6897.22524\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\UiPathPkgSrc\\uipath.system.activities/18.3.6897.22524\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
+        "C:\\UiPathPkgSrc\\uipath.system.activities/18.3.6897.22524\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\UiPathPkgSrc\\uipath.system.activities/18.3.6897.22524\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\UiPathPkgSrc\\uipath.system.activities/18.3.6897.22524\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\UiPathPkgSrc\\uipath.system.activities/18.3.6897.22524\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\UiPathPkgSrc\\uipath.system.activities/18.3.6897.22524\\lib/net461/ActiproSoftware.Text.Wpf.dll",
+        "C:\\UiPathPkgSrc\\uipath.system.activities/18.3.6897.22524\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\UiPathPkgSrc\\uipath.system.activities/18.3.6897.22524\\lib/net461/UiPath.OrchestratorClient.dll",
+        "C:\\UiPathPkgSrc\\uipath.system.activities/18.3.6897.22524\\lib/net461/UiPath.System.Activities.Design.dll",
+        "C:\\UiPathPkgSrc\\uipath.system.activities/18.3.6897.22524\\lib/net461/UiPath.System.Activities.dll"
       ]
     },
     {
@@ -94,35 +94,35 @@
         "Version": "18.3.6877.28298"
       },
       "Assemblies": [
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\avalonedit/5.0.3\\lib/Net40/ICSharpCode.AvalonEdit.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\caliburn.micro/3.0.1\\lib/net45/Caliburn.Micro.Platform.Core.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\caliburn.micro/3.0.1\\lib/net45/Caliburn.Micro.Platform.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\caliburn.micro/3.0.1\\lib/net45/System.Windows.Interactivity.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\caliburn.micro.core/3.0.1\\lib/net45/Caliburn.Micro.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.DataGrid.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.Toolkit.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\humanizer.core/2.4.2\\lib/netstandard2.0/Humanizer.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath/9.0.6877.24355\\lib/UiPath.Interop.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.uiautomation.activities/18.3.6877.28298\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.uiautomation.activities/18.3.6877.28298\\lib/net461/ActiproSoftware.Editors.Wpf.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.uiautomation.activities/18.3.6877.28298\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.uiautomation.activities/18.3.6877.28298\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.uiautomation.activities/18.3.6877.28298\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.uiautomation.activities/18.3.6877.28298\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.uiautomation.activities/18.3.6877.28298\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.uiautomation.activities/18.3.6877.28298\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.uiautomation.activities/18.3.6877.28298\\lib/net461/ActiproSoftware.Text.Wpf.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.uiautomation.activities/18.3.6877.28298\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.uiautomation.activities/18.3.6877.28298\\lib/net461/UiPath.UIAutomation.Activities.Design.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.uiautomation.activities/18.3.6877.28298\\lib/net461/UiPath.UiAutomation.Activities.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.uiautomation.activities/18.3.6877.28298\\lib/net461/UiPath.Wizards.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.vision/1.1.0\\lib/net452/UiPath.Vision.Core.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.vision/1.1.0\\lib/net452/UiPath.Vision.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.vision/1.1.0\\lib/net452/UiPath.Vision.Package.dll"
+        "C:\\UiPathPkgSrc\\avalonedit/5.0.3\\lib/Net40/ICSharpCode.AvalonEdit.dll",
+        "C:\\UiPathPkgSrc\\caliburn.micro/3.0.1\\lib/net45/Caliburn.Micro.Platform.Core.dll",
+        "C:\\UiPathPkgSrc\\caliburn.micro/3.0.1\\lib/net45/Caliburn.Micro.Platform.dll",
+        "C:\\UiPathPkgSrc\\caliburn.micro/3.0.1\\lib/net45/System.Windows.Interactivity.dll",
+        "C:\\UiPathPkgSrc\\caliburn.micro.core/3.0.1\\lib/net45/Caliburn.Micro.dll",
+        "C:\\UiPathPkgSrc\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll",
+        "C:\\UiPathPkgSrc\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll",
+        "C:\\UiPathPkgSrc\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
+        "C:\\UiPathPkgSrc\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.dll",
+        "C:\\UiPathPkgSrc\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.DataGrid.dll",
+        "C:\\UiPathPkgSrc\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.Toolkit.dll",
+        "C:\\UiPathPkgSrc\\humanizer.core/2.4.2\\lib/netstandard2.0/Humanizer.dll",
+        "C:\\UiPathPkgSrc\\uipath/9.0.6877.24355\\lib/UiPath.Interop.dll",
+        "C:\\UiPathPkgSrc\\uipath.uiautomation.activities/18.3.6877.28298\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
+        "C:\\UiPathPkgSrc\\uipath.uiautomation.activities/18.3.6877.28298\\lib/net461/ActiproSoftware.Editors.Wpf.dll",
+        "C:\\UiPathPkgSrc\\uipath.uiautomation.activities/18.3.6877.28298\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\UiPathPkgSrc\\uipath.uiautomation.activities/18.3.6877.28298\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
+        "C:\\UiPathPkgSrc\\uipath.uiautomation.activities/18.3.6877.28298\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\UiPathPkgSrc\\uipath.uiautomation.activities/18.3.6877.28298\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\UiPathPkgSrc\\uipath.uiautomation.activities/18.3.6877.28298\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\UiPathPkgSrc\\uipath.uiautomation.activities/18.3.6877.28298\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\UiPathPkgSrc\\uipath.uiautomation.activities/18.3.6877.28298\\lib/net461/ActiproSoftware.Text.Wpf.dll",
+        "C:\\UiPathPkgSrc\\uipath.uiautomation.activities/18.3.6877.28298\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\UiPathPkgSrc\\uipath.uiautomation.activities/18.3.6877.28298\\lib/net461/UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\UiPathPkgSrc\\uipath.uiautomation.activities/18.3.6877.28298\\lib/net461/UiPath.UiAutomation.Activities.dll",
+        "C:\\UiPathPkgSrc\\uipath.uiautomation.activities/18.3.6877.28298\\lib/net461/UiPath.Wizards.dll",
+        "C:\\UiPathPkgSrc\\uipath.vision/1.1.0\\lib/net452/UiPath.Vision.Core.dll",
+        "C:\\UiPathPkgSrc\\uipath.vision/1.1.0\\lib/net452/UiPath.Vision.Package.dll",
+        "C:\\UiPathPkgSrc\\uipath.vision/1.1.0\\lib/net452/UiPath.Vision.dll"
       ]
     }
   ],
